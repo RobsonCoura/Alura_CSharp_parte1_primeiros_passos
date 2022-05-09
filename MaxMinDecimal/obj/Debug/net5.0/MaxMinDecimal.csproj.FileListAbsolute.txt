@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.exe
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.dll
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\bin\Debug\net5.0\MaxMinDecimal.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.dll
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\refint\MaxMinDecimal.dll
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\MaxMinDecimal.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\MaxMinDecimal\obj\Debug\net5.0\ref\MaxMinDecimal.dll

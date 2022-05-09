@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.exe
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\bin\Debug\net5.0\ListaDeCachorros.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\refint\ListaDeCachorros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ListaDeCachorros.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\ListaDeCachorros\obj\Debug\net5.0\ref\ListaDeCachorros.dll

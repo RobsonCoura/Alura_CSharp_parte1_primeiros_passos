@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.exe
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\bin\Debug\net5.0\StringMaiusculaOuMinuscula.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\refint\StringMaiusculaOuMinuscula.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\StringMaiusculaOuMinuscula.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringMaiusculaOuMinuscula\obj\Debug\net5.0\ref\StringMaiusculaOuMinuscula.dll

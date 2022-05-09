@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.exe
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\bin\Debug\net5.0\SubstituirStrings.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\refint\SubstituirStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\SubstituirStrings.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SubstituirStrings\obj\Debug\net5.0\ref\SubstituirStrings.dll

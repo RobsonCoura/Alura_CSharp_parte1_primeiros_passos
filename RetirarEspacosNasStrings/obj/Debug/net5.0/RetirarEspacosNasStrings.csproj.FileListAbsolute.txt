@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.exe
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\bin\Debug\net5.0\RetirarEspacosNasStrings.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\refint\RetirarEspacosNasStrings.dll
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\RetirarEspacosNasStrings.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\RetirarEspacosNasStrings\obj\Debug\net5.0\ref\RetirarEspacosNasStrings.dll

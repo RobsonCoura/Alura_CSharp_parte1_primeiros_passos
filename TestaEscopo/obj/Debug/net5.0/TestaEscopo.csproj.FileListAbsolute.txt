@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.exe
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\bin\Debug\net5.0\TestaEscopo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\refint\TestaEscopo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\TestaEscopo.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\TestaEscopo\obj\Debug\net5.0\ref\TestaEscopo.dll

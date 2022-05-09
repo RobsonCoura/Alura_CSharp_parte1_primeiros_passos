@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "P11-CalculaPoupança2": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\AprendendoCSharp"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.exe
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\bin\Debug\net5.0\NumerosPrimo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\refint\NumerosPrimo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\NumerosPrimo.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosPrimo\obj\Debug\net5.0\ref\NumerosPrimo.dll

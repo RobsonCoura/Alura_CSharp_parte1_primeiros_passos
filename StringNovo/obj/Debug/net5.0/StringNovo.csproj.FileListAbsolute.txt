@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.exe
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\StringNovo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\refint\StringNovo.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\StringNovo.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\ref\StringNovo.dll

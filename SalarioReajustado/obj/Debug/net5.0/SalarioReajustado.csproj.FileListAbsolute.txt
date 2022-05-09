@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.exe
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\bin\Debug\net5.0\SalarioReajustado.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\refint\SalarioReajustado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\SalarioReajustado.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SalarioReajustado\obj\Debug\net5.0\ref\SalarioReajustado.dll

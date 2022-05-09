@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.exe
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\bin\Debug\net5.0\P16-MúltiplosDeTres.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\refint\P16-MúltiplosDeTres.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\P16-MúltiplosDeTres.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P16-MúltiplosDeTres\obj\Debug\net5.0\ref\P16-MúltiplosDeTres.dll

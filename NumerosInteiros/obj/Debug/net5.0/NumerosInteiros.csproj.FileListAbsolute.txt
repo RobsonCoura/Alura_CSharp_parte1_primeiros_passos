@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.exe
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\bin\Debug\net5.0\NumerosInteiros.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\refint\NumerosInteiros.dll
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\NumerosInteiros.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\NumerosInteiros\obj\Debug\net5.0\ref\NumerosInteiros.dll

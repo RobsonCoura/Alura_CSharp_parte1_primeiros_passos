@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.exe
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\bin\Debug\net5.0\P15-LacoDeRepeticaoFor2.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\refint\P15-LacoDeRepeticaoFor2.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\P15-LacoDeRepeticaoFor2.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P15-LacoDeRepeticaoFor2\obj\Debug\net5.0\ref\P15-LacoDeRepeticaoFor2.dll

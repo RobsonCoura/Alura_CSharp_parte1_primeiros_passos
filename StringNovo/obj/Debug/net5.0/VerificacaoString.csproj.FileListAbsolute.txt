@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.exe
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\bin\Debug\net5.0\VerificacaoString.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\refint\VerificacaoString.dll
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\VerificacaoString.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\StringNovo\obj\Debug\net5.0\ref\VerificacaoString.dll

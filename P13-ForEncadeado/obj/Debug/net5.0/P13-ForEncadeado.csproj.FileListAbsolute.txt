@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.exe
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net5.0\P13-ForEncadeado.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\refint\P13-ForEncadeado.dll
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\P13-ForEncadeado.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net5.0\ref\P13-ForEncadeado.dll

@@ -1,0 +1,16 @@
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.exe
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.deps.json
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.runtimeconfig.json
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.runtimeconfig.dev.json
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\bin\Debug\net5.0\SenhaUsuario.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.csproj.AssemblyReference.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.AssemblyInfoInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.AssemblyInfo.cs
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\refint\SenhaUsuario.dll
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.pdb
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\SenhaUsuario.genruntimeconfig.cache
+D:\AprendendoCSharp\PrimeiroProjeto\SenhaUsuario\obj\Debug\net5.0\ref\SenhaUsuario.dll
